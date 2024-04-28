@@ -1,0 +1,2 @@
+# Gectaro
+Сustomer churn research
